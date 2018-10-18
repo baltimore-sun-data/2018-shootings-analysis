@@ -6,7 +6,7 @@ The Baltimore Sun conducted an analysis of Baltimore Police Department Part 1 Vi
 
 The analysis provided information for the October 18, 2018 Baltimore Sun story titled ["Baltimore's last weekend without a shooting was the weekend Freddie Gray was arrested"](http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-violence-stats-20181018-story.html).
 
-The Sun's findings and analysis are available in the "analysis" notebook in this repository, [`shootings_analysis.ipynb`]() (note: viewable on desktop).
+The Sun's findings and analysis are available in the "analysis" notebook in this repository, [`shootings_analysis.ipynb`](https://github.com/baltimore-sun-data/2018-shootings-analysis/blob/master/shootings_analysis.ipynb) (note: viewable on desktop).
 
 https://twitter.com/baltsundata
 
