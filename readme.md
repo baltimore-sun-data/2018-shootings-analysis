@@ -14,9 +14,11 @@ https://twitter.com/baltsundata
 
 ## Community Contributions
 
+By [Christopher Peters] aka [Statwonk](Statwonk) (so far!)
+
 There are many angles to explore with this data, beyond just the ones we looked into for our story.
 
-We made the `community contributions` folder as a place to store outside contributions. Here's what we have so far:
+We made the `community contributions` folder as a place to store others' contributions. Here's what we have so far:
 
 - [shootings_analysis_by_district.ipynb](https://github.com/baltimore-sun-data/2018-shootings-analysis/tree/master/community_contributions): an analysis of the relationship between police district and shootings in Baltimore by Christopher Peters aka [Statwonk](Statwonk)
 
