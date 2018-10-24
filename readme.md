@@ -14,7 +14,7 @@ https://twitter.com/baltsundata
 
 ## Community Contributions
 
-By [Christopher Peters] aka [Statwonk](Statwonk) (so far!)
+By Christopher Peters aka [Statwonk](Statwonk) (so far!)
 
 There are many angles to explore with this data, beyond just the ones we looked into for our story.
 
